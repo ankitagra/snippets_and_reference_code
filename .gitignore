@@ -1,0 +1,25 @@
+# any folder named dev - which contains stuff for local dev only 
+dev/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# log files
+*.log
+
+# Sphinx documentation
+# docs/_build
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pycharm project settings
+.idea
+
+# Spyder project settings
+.spyderproject

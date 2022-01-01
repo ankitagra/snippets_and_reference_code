@@ -1,1 +1,1 @@
-# snippets_and_reference_code
+### A collection of useful snippets from courses, internet and self-developed
